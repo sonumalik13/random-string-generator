@@ -14,3 +14,24 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
+A simple, fast, and beautifully designed Random String Generator built using JavaScript/React with a clean and user-friendly UI.
+
+This tool allows users to generate random strings based on customizable options such as:
+
+Features
+Generate random strings instantly
+Choose the string length (Min-8)
+Include:
+  Uppercase letters (A–Z)
+  Lowercase letters (a–z)
+  Numbers (0–9)
+  Special characters (!@#$ etc.)
+Clean UI and responsive design
+
+🛠 Tech Stack
+
+React
+Tailwind
